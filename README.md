@@ -87,30 +87,35 @@ The calculator allows users to input values for each category and automatically 
 
 # Assignment-8: EXCEL MCQ:
 1.	____ appear at the bottom of the Excel window.
+
 (A)	Title bar
 (B)	Formula bar
 **(C)	Work sheet tabs**
 (D)	Name box
 
 2.	What are the basic rectangular building blocks of a spreadsheet?
+
 **(A) Cells**
 (B) Zoom slider
 (C) Help button
 (D) All of these
 
 3.	Which of the following is not a term pertaining to spreadsheets?
+
 (A) Cell
 (B) Character
 **(C) Browser**
 (D) Formula
 
 4.	Another name for a pre-programmed formula in Excel is
+
 (A) Cell
 (B) Graph
 **(C) Function**
 (D) Range
 
 5.	Excel is a program that is used to prepare a
+
 (A) Slide presentation
 **(B) Spreadsheet**
 (C) Text document
